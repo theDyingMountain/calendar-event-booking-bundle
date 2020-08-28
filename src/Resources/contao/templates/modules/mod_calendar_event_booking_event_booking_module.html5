@@ -28,6 +28,5 @@
     </div>
     <?php endif; ?>
 
-</div>
 
 <?php $this->endblock(); ?>
